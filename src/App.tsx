@@ -168,7 +168,7 @@ export default function App() {
             <div className="bg-indigo-600 p-2 rounded-xl shadow-lg shadow-indigo-200">
               <Calculator className="text-white w-6 h-6" />
             </div>
-            <h1 className="text-xl font-bold tracking-tight text-slate-800">计算清单</h1>
+            <h1 className="text-xl font-bold tracking-tight text-slate-800">yezhon</h1>
           </div>
           <div className="flex items-center gap-3">
             <Clock />
