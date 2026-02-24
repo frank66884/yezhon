@@ -1,0 +1,5 @@
+{
+  "name": "多行重量单价计算器",
+  "description": "一个支持多行输入的自定义计算器，逻辑为：(总重 - 皮重) * 单价，并自动计算总和。",
+  "requestFramePermissions": []
+}
